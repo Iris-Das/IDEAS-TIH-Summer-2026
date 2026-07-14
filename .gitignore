@@ -1,2 +1,3 @@
 temp/
-data/raw/
+notebook/flat_data_parquet/
+data/
